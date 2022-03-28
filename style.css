@@ -1,0 +1,43 @@
+body {
+    margin:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+header {
+    margin:0px;
+    background-color: rgb(62,62,62);
+    padding: 16px;
+}
+.header_greetings {
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    margin: 0px 0px 16px;
+    
+}
+.header_about {
+    text-align: left;
+    color: rgb(219,237,245);
+    margin: 0px;
+}
+
+.content {
+    margin:0px;
+    background-color: rgb(219,237,245);
+    padding: 16px;
+}
+
+footer{
+    margin:0px;
+    background-color: rgb(62,62,62);
+    padding: 16px;
+}
+
+.list_social_network {
+    margin:0px;
+    padding: 0px;
+    list-style-position: inside;
+    color: #fff;
+    line-height: 1.5;
+}
